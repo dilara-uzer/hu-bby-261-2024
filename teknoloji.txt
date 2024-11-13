@@ -1,0 +1,136 @@
+Genel Teknoloji Kavramları
+
+teknoloji
+dijital
+inovasyon
+otomasyon
+sistem
+ağ
+veri
+analiz
+algoritma
+dijitalleşme
+endüstri
+cihaz
+donanım
+yazılım
+güvenlik
+
+Bilgisayar ve Yazılım
+
+bilgisayar
+program
+yazılım
+donanım
+uygulama
+işletim sistemi
+sunucu
+tarayıcı
+yazılım güncelleme
+açık kaynak
+kod
+programlama
+geliştirme
+arayüz
+veritabanı
+depolama
+
+İnternet ve Web Teknolojileri
+
+internet
+web
+bulut
+tarayıcı
+e-ticaret
+arama motoru
+bağlantı
+ağ
+e-posta
+URL
+çevrimiçi
+sosyal medya
+internet of things (IoT)
+siber güvenlik
+şifreleme
+
+Mobil Teknoloji ve Akıllı Cihazlar
+
+mobil
+akıllı telefon
+tablet
+uygulama mağazası
+mobil uygulama
+taşınabilir cihaz
+dokunmatik ekran
+kulaklık
+Bluetooth
+WiFi
+GPS
+güç yönetimi
+mobil veri
+
+Yapay Zeka ve Makine Öğrenimi
+
+yapay zeka
+makine öğrenimi
+derin öğrenme
+veri bilimi
+neural network (sinir ağı)
+otomatik öğrenme
+bilgisayarla görme
+doğal dil işleme
+algoritma
+modelleme
+tahmin
+
+Robotik ve Otomasyon
+
+robot
+robotik
+otomasyon
+insansı robot
+robot kolları
+üretim otomasyonu
+sensör
+yapay zeka destekli robot
+insansız hava aracı (drone)
+otonom
+
+Oyun ve Eğlence Teknolojileri
+
+oyun
+video oyunu
+sanal gerçeklik (VR)
+artırılmış gerçeklik (AR)
+oyun konsolu
+grafik kartı
+3D
+oyun motoru
+ekran kartı
+oyun bilgisayarı
+
+Blockchain ve Kripto Teknolojisi
+
+blockchain
+kripto para
+Bitcoin
+Ethereum
+madencilik
+token
+cüzdan
+dijital varlık
+merkeziyetsiz
+akıllı sözleşme
+dağıtık defter
+
+Yeni Teknoloji Trendleri
+
+metaverse
+sanal gerçeklik
+artırılmış gerçeklik
+kuantum bilgisayar
+biyoteknoloji
+yenilenebilir enerji teknolojisi
+yeşil teknoloji
+5G
+giyilebilir teknoloji

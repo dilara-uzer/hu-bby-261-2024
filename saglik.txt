@@ -1,0 +1,122 @@
+Genel Sağlık Kavramları
+
+sağlık
+tedavi
+hastalık
+semptom
+teşhis
+bakım
+iyileşme
+sağlık hizmetleri
+sağlık çalışanı
+acil servis
+klinik
+tıp
+ilaç
+doktor
+hemşire
+hastane
+poliklinik
+muayene
+rehabilitasyon
+
+Hastalıklar ve Rahatsızlıklar
+
+kanser
+diyabet
+grip
+enfeksiyon
+virüs
+bakteri
+obezite
+hipertansiyon
+kalp hastalığı
+astım
+alerji
+migren
+depresyon
+anemi
+romatizma
+covid
+salgın
+hastalık
+
+Tedavi ve Tıbbi Prosedürler
+
+ameliyat
+cerrahi
+aşı
+antibiyotik
+kemoterapi
+radyoterapi
+fizik tedavi
+psikoterapi
+organ nakli
+kan testi
+röntgen
+MR
+ultrason
+diyaliz
+biyopsi
+aşı
+ilaç tedavisi
+
+Sağlık ve Yaşam Tarzı
+
+beslenme
+diyet
+egzersiz
+spor
+sağlıklı yaşam
+meditasyon
+stres yönetimi
+kilo verme
+sağlıklı besin
+vitamin
+mineral
+bağışıklık
+uyku
+doğal tedavi
+
+Ruh Sağlığı ve Psikoloji
+
+psikoloji
+psikiyatr
+terapi
+stres
+anksiyete
+depresyon
+ruh sağlığı
+davranış terapisi
+destek grubu
+bağımlılık
+sosyal anksiyete
+duygu yönetimi
+
+Sağlık Sigortası ve Politikaları
+
+sağlık sigortası
+sosyal güvenlik
+sigorta kapsamı
+sağlık güvencesi
+poliçe
+sağlık hizmeti
+kamu sağlığı
+sağlık politikası
+sağlık sistemi
+özel sağlık sigortası
+sağlık hakları
+
+Sağlık Teknolojileri
+
+medikal teknoloji
+tele-tıp
+sağlık uygulamaları
+giyilebilir sağlık cihazı
+tıbbi cihaz
+sağlık verileri
+elektronik sağlık kaydı
+robotik cerrahi
+sağlık takibi
+dijital sağlık
+uzaktan tedavi

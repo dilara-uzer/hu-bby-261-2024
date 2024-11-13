@@ -1,0 +1,106 @@
+Genel Siyasi Kavramlar		
+		
+hükümet		
+seçim		
+parlamento		
+anayasa		
+kanun		
+yasa		
+lider		
+politik		
+siyaset		
+cumhuriyet		
+demokrasi		
+bağımsızlık		
+diplomasi		
+uluslararası		
+hukuk		
+reform		
+koalisyon		
+kabine		
+başbakan		
+başkan		
+devlet		
+milletvekili		
+yasa tasarısı		
+yürütme		
+yasama		
+yargı		
+
+İdeolojik ve Politik Akımlar		
+		
+liberalizm		
+muhafazakarlık		
+sosyalizm		
+kapitalizm		
+milliyetçilik		
+anarşizm		
+feminizm		
+çevrecilik		
+laiklik		
+milliyetçilik		
+özgürlükçülük		
+		
+Siyasi Olaylar ve Süreçler		
+		
+seçim kampanyası		
+sandık		
+oy kullanma		
+referandum		
+anayasa değişikliği		
+oylama		
+adaylık		
+propaganda		
+halk oylaması		
+kampanya		
+halk hareketi		
+grev		
+protesto		
+miting		
+
+Siyasi Partiler ve Örgütler		
+		
+parti		
+iktidar partisi		
+muhalefet		
+milletvekili		
+meclis		
+genel başkan		
+koalisyon		
+ittifak		
+yönetim		
+liderlik		
+örgüt		
+sivil toplum		
+sendika		
+		
+Ülkeler ve İlişkiler	
+	
+uluslararası ilişkiler	
+dış politika	
+müttefik	
+ülke	
+savaş	
+barış	
+sınır	
+müzakere	
+antlaşma	
+yaptırım	
+diplomatik	
+büyükelçi	
+ambargo	
+
+Ekonomik ve Sosyal Politika
+
+vergi
+bütçe
+ekonomi
+sosyal politika
+istihdam
+asgari ücret
+sosyal güvenlik
+kalkınma
+halk sağlığı
+kamu hizmeti
+eğitim politikası
+sağlık politikası
