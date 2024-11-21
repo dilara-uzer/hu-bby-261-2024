@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AECatalog>
+    <Resource>
+        <Title>İleri Düzey Python Programlama</Title>
+        <Subject>Python, Programlama, Veri Yapıları</Subject>
+        <Description>Bu kaynak, Python programlama dilinin ileri düzey konularına dair eğitim materyalleri sunmaktadır.</Description>
+        <Creator>Dr. Ahmet Yılmaz</Creator>
+        <License>https://creativecommons.org/licenses/by-nc-sa/4.0/</License>
+        <Language>tr</Language>
+        <Identifier>http://example.com/python-advanced-course</Identifier>
+    </Resource>
+</AECatalog>
+
