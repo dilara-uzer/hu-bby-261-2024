@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<AEKMetadata>
+    <AEKEntry>
+        <Title>İlk Kayıt</Title>
+        <Subject>Matematik, Eğitim</Subject>
+        <Description>Bu, ilk kayıt için özet bilgidir.</Description>
+        <Creator>Ali Veli</Creator>
+        <License>CC-BY-SA</License>
+        <Language>tr</Language>
+        <Identifier>http://example.com/resource1</Identifier>
+    </AEKEntry>
+    <AEKEntry>
+        <Title>İkinci Kayıt</Title>
+        <Subject>Bilim, Teknoloji</Subject>
+        <Description>İkinci kayıt için açıklayıcı bilgi.</Description>
+        <Creator>Ada Deniz</Creator>
+        <License>CC-BY-NC</License>
+        <Language>en</Language>
+        <Identifier>http://example.com/resource2</Identifier>
+    </AEKEntry>
+<AEKEntry><Title>python</Title><Subject>kod</Subject><Description>yok</Description><Creator>dilara</Creator><License>var</License><Language>ing</Language><Identifier>https://www.w3schools.com/python/matplotlib_histograms.asp</Identifier></AEKEntry></AEKMetadata>
